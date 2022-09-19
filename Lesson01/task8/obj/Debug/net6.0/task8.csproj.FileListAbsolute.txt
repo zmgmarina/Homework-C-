@@ -1,0 +1,16 @@
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson01\task8\bin\Debug\net6.0\task8.exe
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson01\task8\bin\Debug\net6.0\task8.deps.json
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson01\task8\bin\Debug\net6.0\task8.runtimeconfig.json
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson01\task8\bin\Debug\net6.0\task8.dll
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson01\task8\bin\Debug\net6.0\ref\task8.dll
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson01\task8\bin\Debug\net6.0\task8.pdb
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson01\task8\obj\Debug\net6.0\task8.GlobalUsings.g.cs
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson01\task8\obj\Debug\net6.0\task8.csproj.AssemblyReference.cache
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson01\task8\obj\Debug\net6.0\task8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson01\task8\obj\Debug\net6.0\task8.AssemblyInfoInputs.cache
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson01\task8\obj\Debug\net6.0\task8.AssemblyInfo.cs
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson01\task8\obj\Debug\net6.0\task8.csproj.CoreCompileInputs.cache
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson01\task8\obj\Debug\net6.0\task8.dll
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson01\task8\obj\Debug\net6.0\ref\task8.dll
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson01\task8\obj\Debug\net6.0\task8.pdb
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson01\task8\obj\Debug\net6.0\task8.genruntimeconfig.cache
