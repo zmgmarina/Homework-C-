@@ -1,0 +1,16 @@
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson_009\Task68\bin\Debug\net6.0\Task68.exe
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson_009\Task68\bin\Debug\net6.0\Task68.deps.json
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson_009\Task68\bin\Debug\net6.0\Task68.runtimeconfig.json
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson_009\Task68\bin\Debug\net6.0\Task68.dll
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson_009\Task68\bin\Debug\net6.0\ref\Task68.dll
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson_009\Task68\bin\Debug\net6.0\Task68.pdb
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson_009\Task68\obj\Debug\net6.0\Task68.GlobalUsings.g.cs
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson_009\Task68\obj\Debug\net6.0\Task68.csproj.AssemblyReference.cache
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson_009\Task68\obj\Debug\net6.0\Task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson_009\Task68\obj\Debug\net6.0\Task68.AssemblyInfoInputs.cache
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson_009\Task68\obj\Debug\net6.0\Task68.AssemblyInfo.cs
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson_009\Task68\obj\Debug\net6.0\Task68.csproj.CoreCompileInputs.cache
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson_009\Task68\obj\Debug\net6.0\Task68.dll
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson_009\Task68\obj\Debug\net6.0\ref\Task68.dll
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson_009\Task68\obj\Debug\net6.0\Task68.pdb
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson_009\Task68\obj\Debug\net6.0\Task68.genruntimeconfig.cache
