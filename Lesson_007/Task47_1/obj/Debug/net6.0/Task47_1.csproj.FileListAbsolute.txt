@@ -1,0 +1,6 @@
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson_007\Task47_1\obj\Debug\net6.0\Task47_1.GlobalUsings.g.cs
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson_007\Task47_1\obj\Debug\net6.0\Task47_1.csproj.AssemblyReference.cache
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson_007\Task47_1\obj\Debug\net6.0\Task47_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson_007\Task47_1\obj\Debug\net6.0\Task47_1.AssemblyInfoInputs.cache
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson_007\Task47_1\obj\Debug\net6.0\Task47_1.AssemblyInfo.cs
+C:\Users\UpGrade\OneDrive\Рабочий стол\Homework C#\Lesson_007\Task47_1\obj\Debug\net6.0\Task47_1.csproj.CoreCompileInputs.cache
